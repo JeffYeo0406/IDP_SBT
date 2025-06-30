@@ -23,4 +23,10 @@ Vibrator
 GSM 
 Gyroscope (Optional)
 
-# 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+![image](https://github.com/user-attachments/assets/395ce4bb-f61a-41ba-ac48-75d71c97f98e)
+*Components used for the prototype
+![image](https://github.com/user-attachments/assets/9f6f0c5a-18d8-499e-acc2-0df26edc8180)
+*Assembled version of the SBS system
+
+
