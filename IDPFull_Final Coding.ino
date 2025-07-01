@@ -6,10 +6,10 @@
 #include <MPU6050.h>
 
 // === WiFi & Telegram ===
-const char* ssid = "NothingAbuladuo";
-const char* password = "Jeffyeo04062002";
-const char* botToken = "8045755688:AAHWgefBVtKJdS7g5vsHtp7eYOyrkLkgwcY";
-const char* chatID = "-1002532784960";
+const char* ssid = "***";
+const char* password = "***";
+const char* botToken = "***:***";
+const char* chatID = "***";
 
 // === Pin Assignments ===
 const int buzzerMainPin = 13;          // Active-LOW buzzer
